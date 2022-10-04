@@ -1,2 +1,2 @@
 # Pink-lab-data
-Improved spatio-temporal measurements of visually evoked fields usingoptically-pumped magnetometer data
+Improved spatio-temporal measurements of visually evoked fields using optically-pumped magnetometer data
